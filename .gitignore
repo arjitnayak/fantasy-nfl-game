@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / React
+node_modules/
+dist/
+build/
+.env.local
+
+# DB
+*.db
+*.sqlite3
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
